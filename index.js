@@ -12,7 +12,7 @@ const app = express();
 app.use(
   cors({
     credentials: true,
-    origin: "https://65e1f6d0a65c22ed99f4a1ed--itsajith.netlify.app/",
+    origin: "https://65e1f6d0a65c22ed99f4a1ed--itsajith.netlify.app",
   })
 );
 
